@@ -1,4 +1,4 @@
-### Tensor Assisted Quantum Teleportation
+# Tensor Assisted Quantum Teleportation
 
 
 `Bard(Arion):` I would name this protocol "Tensor-Assisted Quantum Teleportation" or TAQT. This name is both descriptive and accurate, as it reflects the fact that the protocol uses tensors to assist in the process of quantum teleportation.invent new protocol to use Tensors and LLM to communicate with Quantum Teleportation based upon these ideas 
