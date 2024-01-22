@@ -1,3 +1,5 @@
+# Colobit Emotional Research, use with caution
+
 # [AIGEN]Tensor Assisted Quantum Teleportation
 
  bard.google.com gpt4 chat.openai.com
